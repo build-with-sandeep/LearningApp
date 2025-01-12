@@ -6,6 +6,6 @@ admin.site.register(Module)
 admin.site.register(Section)
 admin.site.register(Video)
 admin.site.register(Assignment)
-admin.site.register(Question)
+
 
 
